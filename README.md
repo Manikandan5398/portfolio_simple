@@ -18,7 +18,7 @@ Welcome to my portfolio project! This simple website showcases my work and provi
 
 ## Demo
 
-You can view the live demo of my portfolio [here](link-to-your-demo).
+You can view the live demo of my portfolio [here][link].
 
 ## Features
 
